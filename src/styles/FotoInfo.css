@@ -1,0 +1,31 @@
+.container {
+  max-width: 100%;
+}
+
+.img-collage {
+  max-width: 100%;
+  padding: 26px 77px 32px 77px;
+}
+
+.img-collage img {
+  max-width: 100%;
+}
+.info {
+  padding-left: 36px;
+}
+.info h3 {
+  font-size: 36px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  line-height: 39px;
+  padding-bottom: 16px;
+}
+
+.info p {
+  font-size: 16px;
+  font-weight: 300;
+  font-family: "Poppins", sans-serif;
+  line-height: 17px;
+  padding-bottom: 49px;
+  padding-right: 194px;
+}
